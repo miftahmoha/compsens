@@ -1,3 +1,3 @@
 # compsens
 
-Durant ce projet, on est amené à apprendre un dictionnaire d'une base de données d'entraînement de signaux en utilisant les méthodes de résolution parcimonieuse de systèmes surdéterminés. On utilisera ce dictionnaire pour reconstruire de nouveaux signaux incomplets.
+During this project, we received data from TotalEnergies that contains signals representing the quantity of gas found in different depths. Each signal represents a hole dug in a specific place. We'll use sparse methods of resolving under-determined systems to learn a dictionary from the training database. Finally, we'll use such dictionary to reconstruct the incomplete signals. 
